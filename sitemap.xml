@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://aeddeb.github.io/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/posts/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/tags/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/tags/untagged/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/posts/2020/08/winning-a-microsoft-hackathon/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/about/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/posts/2020/03/detecting-fake-reviews/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aeddeb.github.io/series/</loc>
+  </url>
+  
+</urlset>

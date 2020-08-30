@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Ali Eddeb</title>
+        <link>https://aeddeb.github.io/posts/</link>
+        <description>Recent content in Posts on Ali Eddeb</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://aeddeb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Winning a Microsoft Hackathon</title>
+            <link>https://aeddeb.github.io/posts/2020/08/winning-a-microsoft-hackathon/</link>
+            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://aeddeb.github.io/posts/2020/08/winning-a-microsoft-hackathon/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Detecting Fake Reviews</title>
+            <link>https://aeddeb.github.io/posts/2020/03/detecting-fake-reviews/</link>
+            <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://aeddeb.github.io/posts/2020/03/detecting-fake-reviews/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
